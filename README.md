@@ -1,60 +1,80 @@
-# 👨‍💻 Hola, soy Eduardo  
-Estudiante de **Ingeniería en Sistemas e Informática** 🚀  
-Apasionado por la **tecnología, el desarrollo de software y la innovación**.  
+# Eduardo Paiva
 
-🌱 Actualmente aprendiendo: Desarrollo web, apps móviles y bases de datos  
-🎯 Objetivo: Convertirme en desarrollador Full Stack  
-⚡ Fun fact: ¡Me encanta aprender nuevas tecnologías y compartir conocimiento!  
+**Full Stack Developer | Owner en tu equipo freelance**
+
+Desarrollador de software con experiencia real en producción. He construido y desplegado aplicaciones móviles en Play Store y App Store, y trabajo liderando un equipo de desarrollo freelance brindando soluciones a clientes.
+
+---
+
+###STACK TECNOLÓGICO
+
+```
+Frontend          Backend           DevOps & Tools
+─────────────     ─────────────     ─────────────
+TypeScript        Python            Git & GitHub
+JavaScript        Java              Docker
+React / Next.js   Node.js           CI/CD
+HTML5 / CSS3      Spring Boot       PostgreSQL
+Tailwind CSS      REST APIs         Linux
+```
+
+---
+
+###PROYECTOS DESTACADOS
+
+| Proyecto | Descripción | Estado |
+|----------|-------------|--------|
+| **App Delivery** | Aplicación móvil de delivery publicada en Play Store y App Store | ✅ En producción |
+| **Restaurante Mandaditos** | Sistema interno de gestión para restaurantes | 🔨 En desarrollo |
+| **Sistema de Comandas** | Plataforma de pedidos en tiempo real | 🚀 Desplegado |
+
+---
+
+###EXPERIENCIA
+
+- 🏛️ **Municipalidad de Bellavista** — Prácticas en redes y desarrollo de software
+- 📱 **App Delivery** — Desarrollo completo y publicación en tiendas oficiales (Android/iOS)
+- 💼 **Freelance Owner** — Liderando un equipo de desarrollo, gestionando clientes y entregando soluciones
+
+---
+
+###SOBRE MÍ
+
+Me gusta construir cosas que funcionen. Desde interfaces limpias hasta arquitecturas backend robustas, mi enfoque es entregar productos de calidad que resuelvan problemas reales. Actualmente buscando oportunidades para crecer como developer en una empresa, mientras lidero mi equipo freelance.
+
+---
+
+###DISPONIBILIDAD
+
+<a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Eduardo-MPP" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:paivapingoedu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/eduardo.paivap" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm83eTZ6eTczbGM5NWh1YW1rNjUwcjVvdjFjb2M5MGk3cnd0ZHlvaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" 
-       alt="Programación Gamer" width="500"/>
+  <img src="https://img.shields.io/badge/✅_Open_to_Work-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=2EA44F" />
 </p>
 
 ---
 
-## 🌐 Conecta conmigo  
+###ESTADÍSTICAS
+
 <p align="center">
-  <a href="https://www.instagram.com/eduardo.paivap?igsh=MW93MDUzbnE1M2lmMw%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="paivapingoedu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-MPP&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas GitHub" />
 </p>
 
----
-
-## 🛠️ Lenguajes y Herramientas  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-MPP&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 📊 Estadísticas de GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-MPP&show_icons=true&theme=tokyonight" alt="Estadísticas GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-MPP&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-MPP&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-MPP&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
-
----
-
-## 🚀 Un poco más sobre mí  
-- 🌍 Me interesa el **desarrollo web, apps móviles y cloud computing**  
-- 📚 Siempre estoy aprendiendo algo nuevo en tecnología  
-- 🎮 Me gustan los videojuegos y la innovación digital  
-- 🤝 Abierto a colaborar en proyectos interesantes  
-
----
-
-✨ *Gracias por visitar mi perfil, vuelve pronto 😎* ✨
