@@ -84,10 +84,10 @@ Me gusta construir cosas que funcionen. Desde interfaces limpias hasta arquitect
 
 <!-- Corrección de las estadísticas: uso de grid/alineación y altura fija para evitar que se desborden o arrojen errores de renderizado en móvil/web -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-MPP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-MPP&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Educhi-pev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educhi-pev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-MPP&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Educhi-pev&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
 </div>
