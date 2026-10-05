@@ -72,7 +72,7 @@
 | **Mandaditos** | Aplicación móvil de delivery y mandados para Paita, con módulos para clientes, repartidores, comercios y administradores. | React Native, Expo, TypeScript, Node.js, Express, PostgreSQL, Socket.IO | 🧪 Prueba cerrada |
 | **SaaS de Comandas y Gestión** | Plataforma POS para restaurantes con comandas en tiempo real, roles, mesas, menú, caja y reportería financiera. | React, TypeScript, Laravel, PostgreSQL | 🚀 Desplegado |
 | **Sistema Omnicanal de Agendamiento** | Plataforma de citas mediante WhatsApp con un agente de IA que agenda por texto o voz. | n8n, WhatsApp API, React, Supabase, IA | ✅ Implementado |
-| **Sistema de Alertas para Bomberos** | Aplicación para la gestión interna y atención de alertas de emergencia. | Kotlin, Laravel, API REST | ✅ Implementado |
+| **Sistema de Alertas para Bomberos** | Aplicación para la gestión interna y atención de alertas de emergencia. | Kotlin, Laravel, API REST | 🔨 En desarrollo |
 | **Sistema de Asistencia Escolar** | Sistema para digitalizar la asistencia y generar reportes automatizados para la gestión educativa. | React, TypeScript, Laravel, Supabase | ✅ Sustentado |
 
 ---
@@ -107,6 +107,16 @@ Aplicación móvil de delivery y mandados para Paita.
 - Implementé un chat cifrado de extremo a extremo con X25519 y XChaCha20-Poly1305.
 - Integré pagos mediante Culqi, incluyendo tarjetas, Yape y Plin.
 - Diseñé un data warehouse con esquema estrella para reportería administrativa.
+
+### 🏛️ Municipalidad Distrital de Bellavista — Practicante Preprofesional
+
+**Junio de 2026 – Septiembre de 2026 · Sullana, Perú**
+
+- Diseñé y desarrollé desde cero un sistema web de tickets para registrar, reportar y dar seguimiento a fallos técnicos internos.
+- Construí una plataforma omnicanal con n8n, WhatsApp e Inteligencia Artificial para recibir alertas vecinales.
+- Automaticé el envío de alertas en tiempo real hacia el área de Serenazgo.
+- Brindé soporte técnico y diagnóstico preventivo de impresoras.
+- Configuré y enrouté switches para ampliar la conectividad de la institución.
 
 ---
 
